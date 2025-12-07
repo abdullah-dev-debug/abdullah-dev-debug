@@ -120,7 +120,7 @@ API Integration       ██████░░░░░░░░░░░░░�
 
 <div align="center">
   
-**"Shipping production-ready code with clean architecture and best practices."**
+**Shipping production-ready code with clean architecture and best practices.**
 
 *Open to collaboration on meaningful projects*  
 *Available for contract/consulting work*
